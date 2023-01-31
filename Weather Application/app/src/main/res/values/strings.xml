@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temp">Temperature</string>
+    <string name="tempMax">Temperature Max</string>
+    <string name="tempMin">Temperature Min</string>
+    <string name="Description">Description</string>
+    <string name="Humidity">Humidity</string>
+    <string name="WindSpeed">Wind Speed</string>
+    <string name="windDegree">Wind Degree</string>
+    <string name="cloudiness">Cloudiness</string>
+    <string name="checkForecast">Check Forecast</string>
+</resources>
